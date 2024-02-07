@@ -1,0 +1,599 @@
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfo.cs
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\refint\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.exe
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.deps.json
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.runtimeconfig.json
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Newtonsoft.Json.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\scopedcss\bundle\Subscriber.WebWpi.styles.css
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CopyComplete
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.genruntimeconfig.cache
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\ref\Subscriber.WebWpi.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.Development.json
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.json
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.exe
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.deps.json
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.runtimeconfig.json
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.pdb
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\AutoMapper.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Core.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Identity.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Humanizer.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.CodeDom.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Memory.Data.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Json.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.pdb
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.pdb
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.pdb
+G:\.net\temp\.net\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.pdb
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.AssemblyReference.cache
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfoInputs.cache
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfo.cs
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CoreCompileInputs.cache
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cs
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cache
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.build.json
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.development.json
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\scopedcss\bundle\Subscriber.WebWpi.styles.css
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CopyComplete
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\refint\Subscriber.WebWpi.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.pdb
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.genruntimeconfig.cache
+G:\.net\temp\.net\WeightWatchers\Subscriber\obj\Debug\net6.0\ref\Subscriber.WebWpi.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.exe
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.deps.json
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.runtimeconfig.json
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.pdb
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.pdb
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.pdb
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.pdb
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.pdb
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfo.cs
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\scopedcss\bundle\Subscriber.WebWpi.styles.css
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CopyComplete
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\refint\Subscriber.WebWpi.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.pdb
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.genruntimeconfig.cache
+C:\Users\user1\Desktop\WeightWatchers\Subscriber\obj\Debug\net6.0\ref\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.exe
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.deps.json
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.runtimeconfig.json
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Newtonsoft.Json.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfo.cs
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\scopedcss\bundle\Subscriber.WebWpi.styles.css
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CopyComplete
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\refint\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.genruntimeconfig.cache
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\ref\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.AspNetCore.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Sinks.File.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.exe
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.deps.json
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.runtimeconfig.json
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.pdb
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Newtonsoft.Json.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.AspNetCore.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Sinks.File.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.pdb
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.pdb
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfo.cs
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\scopedcss\bundle\Subscriber.WebWpi.styles.css
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CopyComplete
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\refint\Subscriber.WebWpi.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.pdb
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.genruntimeconfig.cache
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber\obj\Debug\net6.0\ref\Subscriber.WebWpi.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.exe
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.deps.json
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.runtimeconfig.json
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.WebWpi.pdb
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.CORE.pdb
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.DAL.pdb
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Data.pdb
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\bin\Debug\net6.0\Subscriber.Services.pdb
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.AssemblyInfo.cs
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets\msbuild.Subscriber.WebWpi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets\msbuild.build.Subscriber.WebWpi.props
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Subscriber.WebWpi.props
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Subscriber.WebWpi.props
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\scopedcss\bundle\Subscriber.WebWpi.styles.css
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.csproj.CopyComplete
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\refint\Subscriber.WebWpi.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.pdb
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\Subscriber.WebWpi.genruntimeconfig.cache
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber\obj\Debug\net6.0\ref\Subscriber.WebWpi.dll

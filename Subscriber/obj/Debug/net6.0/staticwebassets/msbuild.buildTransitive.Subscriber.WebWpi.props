@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Subscriber.WebWpi.props" />
+</Project>

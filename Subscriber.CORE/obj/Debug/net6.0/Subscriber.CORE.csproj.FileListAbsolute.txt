@@ -1,0 +1,105 @@
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.deps.json
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfo.cs
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\refint\Subscriber.CORE.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber.CORE.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CopyComplete
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.deps.json
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.pdb
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.pdb
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.AssemblyReference.cache
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfoInputs.cache
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfo.cs
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CoreCompileInputs.cache
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CopyComplete
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\refint\Subscriber.CORE.dll
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.pdb
+G:\.net\temp\.net\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber.CORE.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.deps.json
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.pdb
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.pdb
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfo.cs
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CopyComplete
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\refint\Subscriber.CORE.dll
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.pdb
+C:\Users\user1\Desktop\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber.CORE.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.deps.json
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfo.cs
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CopyComplete
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\refint\Subscriber.CORE.dll
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\מנטל  חיה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber.CORE.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.deps.json
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfo.cs
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CopyComplete
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\refint\Subscriber.CORE.dll
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\מלר  רבקה\.net project\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber.CORE.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.deps.json
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.pdb
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.pdb
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfo.cs
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CopyComplete
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\refint\Subscriber.CORE.dll
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.pdb
+C:\Users\user\Desktop\r&c\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber.CORE.dll
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfo.cs
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.dll
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\refint\Subscriber.CORE.dll
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.pdb
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.deps.json
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.dll
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.pdb
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.dll
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.pdb
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CopyComplete
+C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber.CORE.dll
