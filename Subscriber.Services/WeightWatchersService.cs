@@ -44,25 +44,32 @@ namespace Subscriber.Services
 
         public async Task<Generalresponse<CardDTO>> Login(string password, string email)
         {
-            Generalresponse<Card> temp = await _weightWatchersRepository.Login(password, email);
-            if (!IsValidEmail(email) || !IsValidPassword(password))
-            {
-
-                temp.Response = null;    
-                temp.Succeeded = false;
-                temp.Status = "invalid email or password";
-            }
-           
-            return _mapper.Map<Generalresponse<CardDTO>>(temp);
+            Generalresponse<Card> response = await _weightWatchersRepository.Login(password, email);
+            return _mapper.Map<Generalresponse<CardDTO>>(response);
 
         }
-        
+
         public async Task<Generalresponse<bool>> Register(SubscriberDTO subscriberDTO, double height)
         {
-            Generalresponse<bool> response = await _weightWatchersRepository.Register(_mapper.Map<Subscribers>(subscriberDTO),height);    
+
+            if (!IsValidEmail(subscriberDTO.Email) || !IsValidPassword(subscriberDTO.Password))
+            {
+
+                var ErrorResponse = new Generalresponse<bool>
+                {
+                    Response = false,
+                    Succeeded = false,
+                    Status = "Password is invalid," +
+                    " Please make sure you meet the requirements"
+                };
+                return ErrorResponse;
+            }
+            Generalresponse<bool> response = await _weightWatchersRepository.Register(_mapper.Map<Subscribers>(subscriberDTO), height);
+
             return response;
         }
-        
+
+
         public bool IsValidEmail(string email)
         {
             if (string.IsNullOrWhiteSpace(email))
@@ -70,9 +77,9 @@ namespace Subscriber.Services
 
             try
             {
-               
-                var addr = new System.Net.Mail.MailAddress(email);
-                return addr.Address == email;
+
+                var validation = new System.Net.Mail.MailAddress(email);
+                return validation.Address == email;
             }
             catch
             {
@@ -87,6 +94,5 @@ namespace Subscriber.Services
 
             return Regex.IsMatch(password, @"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$");
         }
-
     }
 }

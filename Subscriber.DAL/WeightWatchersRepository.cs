@@ -69,19 +69,21 @@ namespace Subscriber.DAL
             {
                 Subscribers subscribers = _weightWatchersContext.Subscribers.Where(p => p.Email == email && p.Password == password).FirstOrDefault();
                 Generalresponse<Card> response = new Generalresponse<Card>();
-
-                if (subscribers != null)
+                if (subscribers == null)
+                {
+                    response.Response = null;
+                    response.Status = "The email address or password  does not exist.";
+                    return response;
+                }
+                else
                 {
                     response.Response = _weightWatchersContext.Cards.Where(c => c.Id == subscribers.Id).FirstOrDefault();
                     response.Succeeded = true;
                     response.Status = "Succeeded";
+                    return response;
                 }
-                else
-                {
-                    response.Response = null;
-                    response.Status = "The email address or password  does not exist.";
-                }
-                return response;
+              
+              
             }
             catch (Exception ex)
             {

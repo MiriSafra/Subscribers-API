@@ -152,7 +152,7 @@
                 responseContent.innerHTML += `<p>Weight: ${data.response.weight}</p>`;
             } else {
                 responseCard.style.borderColor = '#dc3545';
-                responseContent.textContent = "An error occurred";
+                responseContent.textContent = data.message;
             }
             cardContainer.style.display = 'block';
         }
