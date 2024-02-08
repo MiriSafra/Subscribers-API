@@ -59,14 +59,8 @@ namespace Subscriber.Services
         
         public async Task<Generalresponse<bool>> Register(SubscriberDTO subscriberDTO, double height)
         {
-            Generalresponse<bool> temp = await _weightWatchersRepository.Register(_mapper.Map<Subscribers>(subscriberDTO),height);
-            if (!await _weightWatchersRepository.SubscriberEmailExists(subscriberDTO.Email))
-            {
-                temp.Succeeded = false;
-                temp.Status = "Email already exists";
-            }
-            
-            return temp;
+            Generalresponse<bool> response = await _weightWatchersRepository.Register(_mapper.Map<Subscribers>(subscriberDTO),height);    
+            return response;
         }
         
         public bool IsValidEmail(string email)
@@ -88,10 +82,11 @@ namespace Subscriber.Services
 
         public bool IsValidPassword(string password)
         {
-            if (string.IsNullOrWhiteSpace(password))
+            if (string.IsNullOrWhiteSpace(password) || password.Length != 8)
                 return false;
 
             return Regex.IsMatch(password, @"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$");
         }
+
     }
 }

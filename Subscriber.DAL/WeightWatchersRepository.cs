@@ -95,8 +95,16 @@ namespace Subscriber.DAL
             try
             {
                 Generalresponse<bool> response = new Generalresponse<bool>();
-                
-               
+
+                if (await SubscriberEmailExists(subscriber.Email))
+                {
+                    response.Response = false;
+                    response.Succeeded = false;
+                    response.Status = "Email already exists";
+                    return response;
+                }
+                else
+                {
                     var createdSubscriber = await _weightWatchersContext.Subscribers.AddAsync(subscriber);
                     await _weightWatchersContext.SaveChangesAsync();
                     var defaultCard = new Card
@@ -107,11 +115,15 @@ namespace Subscriber.DAL
                         BMI = 0,
                         Height = height
                     };
-                    _weightWatchersContext.Cards.AddAsync(defaultCard);
+                   await _weightWatchersContext.Cards.AddAsync(defaultCard);
                     await _weightWatchersContext.SaveChangesAsync();
+               
+               
                     response.Succeeded = true;
                     response.Response = true;
                     response.Status = " added successfuly";
+                }
+            
                   
                 
                 return response;
