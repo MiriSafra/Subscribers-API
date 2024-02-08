@@ -103,3 +103,18 @@ C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\bin\Debug
 C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.pdb
 C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CopyComplete
 C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber.CORE.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.deps.json
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.CORE.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\bin\Debug\net6.0\Subscriber.Data.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.AssemblyReference.cache
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfoInputs.cache
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.AssemblyInfo.cs
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CoreCompileInputs.cache
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.csproj.CopyComplete
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\refint\Subscriber.CORE.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\Subscriber.CORE.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber.CORE.dll

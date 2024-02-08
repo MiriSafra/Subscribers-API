@@ -117,3 +117,20 @@ C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.DAL\obj\Debug\
 C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\refint\Subscriber.DAL.dll
 C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.pdb
 C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\ref\Subscriber.DAL.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.deps.json
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.CORE.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.Data.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.CORE.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.Data.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.AssemblyReference.cache
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfoInputs.cache
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfo.cs
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CoreCompileInputs.cache
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CopyComplete
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\refint\Subscriber.DAL.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\ref\Subscriber.DAL.dll

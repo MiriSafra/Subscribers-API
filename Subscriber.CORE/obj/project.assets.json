@@ -2645,11 +2645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\מירי ספרא\\WeightWatchers\\Subscriber.CORE\\Subscriber.CORE.csproj",
+      "projectUniqueName": "C:\\תכנות\\הפרויקט הטוב בדוטנט\\WeightWatchers\\Subscriber.CORE\\Subscriber.CORE.csproj",
       "projectName": "Subscriber.CORE",
-      "projectPath": "C:\\Users\\user\\Desktop\\מירי ספרא\\WeightWatchers\\Subscriber.CORE\\Subscriber.CORE.csproj",
+      "projectPath": "C:\\תכנות\\הפרויקט הטוב בדוטנט\\WeightWatchers\\Subscriber.CORE\\Subscriber.CORE.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\מירי ספרא\\WeightWatchers\\Subscriber.CORE\\obj\\",
+      "outputPath": "C:\\תכנות\\הפרויקט הטוב בדוטנט\\WeightWatchers\\Subscriber.CORE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2671,8 +2671,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\מירי ספרא\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\מירי ספרא\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj"
+            "C:\\תכנות\\הפרויקט הטוב בדוטנט\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj": {
+              "projectPath": "C:\\תכנות\\הפרויקט הטוב בדוטנט\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj"
             }
           }
         }

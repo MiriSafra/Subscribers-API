@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "acETXO4pdL+o6E5qKvsHeZMukYChlRW6dmmuApS3Vgic5EAu5ocbLN1951IlOXviOIi2wz1kS/8Wmqgw5dl+QQ==",
+  "dgSpecHash": "1YCuXQZnshi4S4O5HJpFwnWAMHmbFlvchk99TCkWLYxLj0cz4HXjwXEO5Welg23zSulK40cw7ymgy6iEVSpI7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\מירי ספרא\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
+  "projectFilePath": "C:\\תכנות\\הפרויקט הטוב בדוטנט\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

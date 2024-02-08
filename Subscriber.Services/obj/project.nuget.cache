@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PkfYjusfyQ+ITbBnHciQ7M2B+iZLSfE+I1PQHEfpmaVBbPnPSkovtMGonraaPtW1P4gWwVaP/aX7ItUSNOlsRQ==",
+  "dgSpecHash": "MkmRlgU5BjROAsqIGY11l1RG5vW+OQm9EweusK7ME5EMQdXhJW4aAD3d2HvuthrJ/7159yNh5aDh4uO6t2prfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\מירי ספרא\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj",
+  "projectFilePath": "C:\\תכנות\\הפרויקט הטוב בדוטנט\\WeightWatchers\\Subscriber.Services\\Subscriber.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

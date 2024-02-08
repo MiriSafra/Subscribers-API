@@ -131,3 +131,22 @@ C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.Services\bin\D
 C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Data.pdb
 C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.csproj.CopyComplete
 C:\Users\user\Desktop\מירי ספרא\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\ref\Subscriber.Services.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Services.deps.json
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Services.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Services.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.CORE.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.DAL.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Data.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.CORE.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.DAL.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\bin\Debug\net6.0\Subscriber.Data.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.csproj.AssemblyReference.cache
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.AssemblyInfoInputs.cache
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.AssemblyInfo.cs
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.csproj.CoreCompileInputs.cache
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.csproj.CopyComplete
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\refint\Subscriber.Services.dll
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\Subscriber.Services.pdb
+C:\תכנות\הפרויקט הטוב בדוטנט\WeightWatchers\Subscriber.Services\obj\Debug\net6.0\ref\Subscriber.Services.dll

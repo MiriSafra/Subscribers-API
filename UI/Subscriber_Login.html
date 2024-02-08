@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 400px;
+        }
+
+        h2 {
+            margin-top: 0;
+            text-align: center;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        input[type="email"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+        }
+
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+        .card {
+            background-color: #f8f9fa;
+            border: 1px solid #ced4da;
+            border-radius: 5px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .card-title {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        .card-content {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Login</h2>
+        <form id="login-form">
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <button type="submit">Login</button>
+        </form>
+        <div id="card-container" style="display: none;">
+            <div class="card" id="response-card">
+                <h3 class="card-title">Response</h3>
+                <div class="card-content" id="response-content"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('login-form').addEventListener('submit', async function(event) {
+            event.preventDefault();
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+
+            const loginData = {
+                email: email,
+                password: password
+            };
+
+            const url = 'http://localhost:5032/api/WeightWatchers/login';
+
+            try {
+                const response = await fetch(url, {
+                    method: 'POST',
+                    body: JSON.stringify(loginData),
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                });
+                const responseData = await response.json();
+                if (response.ok) {
+                    showResponseCard('success', responseData);
+                    console.log(responseData);
+                } else {
+                    showResponseCard('error', responseData);
+                    console.error(responseData);
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                showResponseCard('error', 'An error occurred');
+            }
+        });
+
+        function showResponseCard(type, data) {
+            const cardContainer = document.getElementById('card-container');
+            const responseCard = document.getElementById('response-card');
+            const responseContent = document.getElementById('response-content');
+            
+            responseContent.innerHTML = '';
+            if (type === 'success') {
+                responseCard.style.borderColor = '#28a745';
+                responseContent.innerHTML += `<p>Update Date: ${data.response.upDate}</p>`;
+                responseContent.innerHTML += `<p>BMI: ${data.response.bmi}</p>`;
+                responseContent.innerHTML += `<p>Height: ${data.response.height}</p>`;
+                responseContent.innerHTML += `<p>Weight: ${data.response.weight}</p>`;
+            } else {
+                responseCard.style.borderColor = '#dc3545';
+                responseContent.textContent = "An error occurred";
+            }
+            cardContainer.style.display = 'block';
+        }
+    </script>
+</body>
+</html>

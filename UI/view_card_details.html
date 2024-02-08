@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weight Watchers Card Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* צבע תכלת כחול */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* צל */
+            padding: 30px;
+            width: 400px; /* רוחב */
+        }
+
+        h1 {
+            text-align: center;
+            color: #007bff; /* כחול */
+        }
+
+        .card {
+            background-color: #007bff; /* כחול */
+            color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .card p {
+            margin: 10px 0; /* מרווח בין שורות */
+            font-size: 18px; /* גודל גופן */
+        }
+
+        button {
+            background-color: #007bff; /* כחול */
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            padding: 10px 20px;
+            font-size: 16px; /* גודל גופן */
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3; /* כחול כהה */
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+            font-size: 16px; /* גודל גופן */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Weight Watchers Card Details</h1>
+        <form id="cardForm">
+            <input type="number" id="cardId" placeholder="Enter Card ID" required>
+            <button type="submit">View Details</button>
+        </form>
+        <div id="response"></div>
+    </div>
+
+    <script>
+        document.getElementById('cardForm').addEventListener('submit', function(event) {
+            event.preventDefault(); // מונע מהטופס להישלח כרגיל
+
+            // משיכת נתוני כרטיס מהשרת באמצעות FETCH
+            fetch(`http://localhost:5032/api/WeightWatchers/${document.getElementById('cardId').value}`)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json(); // המרת התשובה לJSON
+            })
+            .then(data => {
+                // הצגת נתוני הכרטיס בכרטיס מעוצב
+                document.getElementById('response').innerHTML = `
+                    <div class="card">
+                        <p><strong>First Name:</strong> ${data.response.firstName}</p>
+                        <p><strong>Last Name:</strong> ${data.response.lastName}</p>
+                        <p><strong>Height:</strong> ${data.response.height}</p>
+                        <p><strong>Weight:</strong> ${data.response.weight}</p>
+                        <p><strong>BMI:</strong> ${data.response.bmi}</p>
+                    </div>
+                `;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('response').textContent = 'Error fetching card details';
+            });
+        });
+    </script>
+</body>
+</html>

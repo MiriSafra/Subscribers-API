@@ -2861,11 +2861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\מירי ספרא\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
+      "projectUniqueName": "C:\\תכנות\\הפרויקט הטוב בדוטנט\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
       "projectName": "Subscriber.Data",
-      "projectPath": "C:\\Users\\user\\Desktop\\מירי ספרא\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
+      "projectPath": "C:\\תכנות\\הפרויקט הטוב בדוטנט\\WeightWatchers\\Subscriber.Data\\Subscriber.Data.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\מירי ספרא\\WeightWatchers\\Subscriber.Data\\obj\\",
+      "outputPath": "C:\\תכנות\\הפרויקט הטוב בדוטנט\\WeightWatchers\\Subscriber.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
